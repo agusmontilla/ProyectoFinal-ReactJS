@@ -1,0 +1,13 @@
+.imgTamaño{
+    width: 20rem;
+    
+    object-fit: contain;
+}
+
+.marginCards{
+    margin: 0.5rem;
+    
+}
+.btnMargin{
+    margin-left: 70px;
+}

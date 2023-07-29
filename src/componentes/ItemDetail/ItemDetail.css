@@ -1,0 +1,13 @@
+.marginDetail{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cardDisplay{
+    display: flex;
+    
+}
+.imgDetail{
+    width: 90px;
+}
